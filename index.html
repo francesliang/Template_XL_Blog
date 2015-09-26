@@ -1,0 +1,19 @@
+---
+layout: default_homepage
+title: XL Blog
+---
+
+<div class="entries">
+	{% for post in site.posts %}
+
+	<div>
+		<a href="{{ post.url }}">
+			<h3>{{ post.title }}</h3>
+			<time datetime="{{ post.datetime }}">{{ post.date | date: "%F" }}</time>
+		</a>
+	</div>
+
+	{% endfor %}
+</div>
+
+
