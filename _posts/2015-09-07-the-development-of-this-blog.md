@@ -3,4 +3,4 @@ layout: post_entry
 title: The Development of This Blog
 ---
 
-This is the first time I tried to write a blog and the first time that I tried to build a blog from scratch. 
+This is the first time that I tried to write a blog and the first time that I tried to build a blog from scratch. So I was thinking to write a post as a record of how I accomplished this task. Since I'm a total beginner, there might be some shallow understandings and explanations, please point out if so.
