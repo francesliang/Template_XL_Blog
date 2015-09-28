@@ -9,4 +9,5 @@ script: ./script/cibuild.sh
 
 branches:
   only:
+  - gh-pages
   - Template_XL_Blog
